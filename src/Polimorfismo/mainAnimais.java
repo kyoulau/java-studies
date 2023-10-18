@@ -1,6 +1,6 @@
 package Polimorfismo;
 
-public class main {
+public class mainAnimais {
     public static void main(String[] args){
         Cachorro dog = new Cachorro("Simba");
         dog.Latir();
